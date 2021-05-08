@@ -1,2 +1,2 @@
 # DSA-Searching
-This module contains all the searching techniques along with its algorithms coded in Python.
+This module contains the searching techniques- Linear/Binary searches along with its algorithms coded in Python.
